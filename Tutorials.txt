@@ -1,0 +1,9 @@
+C++ std::string,John's Basement,37:40,30,https://www.youtube.com/watch?v=Fs2fnUAMJlk
+C++ lesson: introduction in std::cout and std::cin,GlobalSubjects,3:56,70,https://www.youtube.com/watch?v=ztM3CHY69VM
+C++ Libraries For Beginners,Michael Forest,6:11,782,https://www.youtube.com/watch?v=a5kUr-u2UNo
+Templates in C++,The Cherno,17:57,14000,https://www.youtube.com/watch?v=I-hZkUa9mIs
+C++ Iterators,code_report,6:13,353,https://www.youtube.com/watch?v=yTi46Pb32qg
+C++ Tutorials- Void Function,Yunus Kulyyev,6:31,926,https://www.youtube.com/watch?v=-NKUKkyQNKc
+C++ Tutorials- Return Function,Yunus Kulyyev,8:48,457,https://www.youtube.com/watch?v=CCXJ6EVwGqQ
+What Are Pointers? (C++),javidx9,41:54,17000,https://www.youtube.com/watch?v=iChalAKXffs
+References in C++ Explained,Caleb Curry,15:02,2000,https://www.youtube.com/watch?v=OCL7mSFCIx0
