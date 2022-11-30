@@ -1,7 +1,5 @@
 # Tutorials-Management-with-Gui-in-Cpp
 
-## Master C++
-
 You are very passionate about programing (otherwise you wouldn't be reading this) and C++ is a language close to your heart. On your way to becoming a guru, you study a lot and watch many tutorials. To make sure you do not miss any good tutorials, you absolutely need a software application to help you manage your tutorials and create watch lists. The application can be used in two modes: administrator and user. When the application is started, it will offer the option to choose the mode.
 
 **Administrator mode:** \
